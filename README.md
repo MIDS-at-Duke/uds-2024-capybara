@@ -1,4 +1,4 @@
-# Effects of Virality on Baseline Per-Post Engagement Levels
+# Causal Effects of Virality on Baseline Per-Post Engagement Levels
 
 In the rapidly evolving landscape of digital marketing, social media platforms stand out as critical arenas for business-to-consumer (B2C) engagement. Companies create social media profiles, not just for presence online, but to actively engage and expand their reach to a target audience. This digital engagement serves as a direct channel for disseminating a company's brand narrative, aiming to capture consumer attention in increasingly crowded markets.
 

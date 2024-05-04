@@ -1,163 +1,206 @@
 INDUSTRY,PLATFORM,PROFILE,FOLLOWERS,FOLLOWERS EVOLUTION,ENGAGEMENT,POSTS,AVERAGE ENG/ POST,AVERAGE ENG RATE/ POST,ENGAGEMENT RATE/ PROFILE,REACH,VIEWS
-Fashion,Facebook,adidas,"40,987,373","40,987,373 %",0,0,0 /post,0.00%,0.00%,0,
-Fashion,Instagram,adidas,"28,844,344","172,653 0.6%",2244917,12,187.1K /post,0.65%,7.78%,"6,940,438",
-Fashion,Tik Tok,adidas,"6,221,437","105,518 1.73%",717207,30,23.9K /post,0.38%,11.53%,,
-Fashion,Twitter,adidas,"4,387,870","2,523 0.06%",417,2,208.5 /post,0.01%,0.01%,,
-Fashion,Youtube,adidas,"1,170,000","40,000 3.54%",8881,26,341.6 /post,0.03%,0.76%,,261.76K
-Tech,Facebook,airbnb,"16,153,090","21,867 0.14%",0,0,0,0%,0%,0,
-Tech,Instagram,Airbnb,"5,606,769","25,421 0.46%",1402,9,155.8 /post,0.00%,0.03%,"11,691",
-Tech,Twitter,Airbnb,"879,474",-412 -0.05%,0,0,0 /post,0%,0%,,
-Tech,YouTube,Airbnb,"646,000","3,000 0.47%",29,1,29 /post,0.00%,0.00%,,2846
-Tech,TikTok,airbnb,"272,983","5,445 2.04%",0,0,0 /post,0%,0%,,
-Travel,Facebook,Allegiant,"345,299",146 0.04%,13758,14,982.7 /post,0.29%,3.98%,"69,791",
-Travel,Instagram,Allegiant Air,"86,527","2,735 3.26%",26771,23,1164 /post,1.35%,30.94%,"239,436",
-Travel,Twitter,Allegiant Air,"68,313",0 0%,343,14,24.5 /post,0.04%,0.50%,,
-Travel,YouTube,Allegiant Air,"3,900",0 0%,0,0,0 /post,0%,,,
-Tech,LinkedIn,Amazon,"30,432,967",0 0%,46911,14,3351 /post,0.01%,0.15%,,
-Tech,Facebook,Amazon,"30,172,041","-9,350 -0.03%",32172,20,1609 /post,0.01%,0.11%,"194,306",
-Tech,Twitter,Amazon,"6,100,022","51,546 0.85%",5856,23,254.6 /post,0.00%,0.10%,,
-Tech,Instagram,Amazon,"4,701,931","46,846 1.01%",40174,24,1674 /post,0.04%,0.85%,"353,994",
-Tech,Instagram,apple,"32,305,122","154,494 0.48%",1567949,14,112.0K /post,0.35%,4.85%,"7,935,725",
-Tech,YouTube,Apple,"18,800,000","100,000 0.53%",142304,6,23.7K /post,0.13%,0.76%,,49.79M
-Tech,Facebook,apple,"13,809,876","-4,171 -0.03%",0,0,0 /post,0%,0%,0,
-Tech,Twitter,Apple,"9,785,568","20,080 0.21%",0,0,0 /post,0%,0%,,
-Tech,TikTok,apple,"3,735,283","441,859 13.42%",815119,1,815.1K /post,21.82%,21.82%,,
-Tech,Facebook,asana,"286,529",0 0%,28,1,28 /post,0.01%,0.01%,126,
-Tech,Twitter,Asana,"128,365",0 0%,12,1,12 /post,0.01%,0.01%,,
-Tech,Instagram,Asana,"70,354",369 0.53%,728,9,80.9 /post,0.12%,1.04%,"9,806",
-Tech,YouTube,Asana,"44,000",0 0%,32,2,16 /post,0.04%,0.07%,,3688
-Tech,TikTok,Asana,"1,432",0 0%,0,0,0 /post,0%,0%,,
-Fashion,Instagram,ASOS,"14,811,768","-14,928 -0.1%",189827,54,3515 /post,0.02%,1.28%,"2,958,727",
-Fashion,Facebook,ASOS,"5,657,666","15,274 0.27%",3390,55,61.6 /post,0.00%,0.06%,"9,712",
-Fashion,Tik Tok,asos,"2,080,852","8,456 0.41%",356322,41,8691 /post,0.42%,17.12%,,
-Fashion,Youtube,ASOS,"118,000",0 0%,420,39,10.8 /post,0.01%,0.36%,,27.42K
-Tech,Facebook,blinkist,"541,669",0 0%,2909,7,415.6 /post,0.08%,0.54%,"26,131",
-Tech,Instagram,Blinkist,"446,200",0 0%,1894,13,145.7 /post,0.03%,0.42%,"18,530",
-Tech,Twitter,Blinkist,"115,773",0 0%,55,9,6.1 /post,0.01%,0.05%,,
-Tech,YouTube,Blinkist,"16,300",0 0%,0,0,0 /post,0%,0%,,
-Fashion,Tik Tok,boohoo,"1,385,302",0 0%,87864,33,2663 /post,0.19%,6.34%,,
-Fashion,Twitter,boohoo,"602,699",0 0%,5558,105,52.9 /post,0.01%,0.92%,,
-Fashion,Youtube,boohoo,"31,300",0 0%,0,0,0 /post,0%,0%,,0
-Fashion,Instagram,boohoo,"8,277,714",0 0%,42,5,8.4 /post,0%,0.00%,0,
-Tech,LinkedIn,Calendly,"93,969",0 0%,776,14,55.4 /post,0.06%,0.83%,,
-Tech,Twitter,Calendly,"21,434",0 0%,52,11,4.7 /post,0.02%,0.24%,,
-Tech,Instagram,Calendly,"17,739",0 0%,559,9,62.1 /post,0.35%,3.15%,"6,856",
-Tech,Facebook,calendly,"9,678",59 0.61%,0,0,0 /post,0%,0%,0,
-Tech,YouTube,Calendly,"4,210",0 0%,3,1,3 /post,0.07%,0.07%,,238
-Travel,Facebook,Carnival,"5,098,377",744 0.01%,31315,16,1957 /post,0.04%,0.61%,"256,667",
-Travel,TikTok,carnival,"236,683",0 0%,39124,9,4347 /post,1.84%,16.53%,,
-Travel,Instagram,Carnival Cruise Line,"927,019","5,717 0.62%",73355,13,5643 /post,0.61%,7.91%,"888,130",
-Travel,YouTube,Carnival Cruise Line,"113,000","1,000 0.89%",858,3,286 /post,0.25%,0.76%,,69.95K
-Fashion,Facebook,chanel,"23,320,747","6,604 0.03%",79205,25,3168 /post,0.01%,0.34%,"729,450",
-Fashion,Twitter,CHANEL,"13,304,397","-12,880 -0.1%",0,0,0 /post,0.00%,0.00%,,
-Fashion,Youtube,CHANEL,"2,510,000",0 0%,12491,18,693.9 /post,0.03%,0.50%,,175.70K
-Fashion,Tik Tok,Chanel,2,0 0%,0,0,0 /post,0%,0%,,
-Fashion,Youtube,Christian Dior,"3,280,000",0 0%,28919,18,1607 /post,0.05%,0.88%,,8.21M
-Travel,Facebook,delta,"3,324,382","-1,450 -0.04%",12495,6,2083 /post,0.06%,0.38%,"65,765",
-Travel,Twitter,Delta,"1,656,093",243 0.01%,3041,6,506.8 /post,0.03%,0.18%,,
-Travel,TikTok,delta,"555,528",0 0%,8166,7,1167 /post,0.21%,1.47%,,
-Travel,YouTube,Delta,"110,000",0 0%,120,2,60 /post,0.06%,0.11%,,2000
-Travel,Instagram,Delta Air Lines,"1,370,805","8,863 0.65%",71074,13,5467 /post,0.40%,5.19%,"751,780",
-Travel,LinkedIn,Delta Utility Services,"8,431",0 0%,0,0,0 /post,0%,0%,,
-Fashion,Instagram,Dior,"45,854,071","123,238 0.27%",5794932,93,62.3K /post,0.14%,12.64%,"14,092,199",
-Fashion,Facebook,Dior,"18,981,547","18,981,547 %",198155,32,6192 /post,0.03%,1.04%,"1,696,751",
-Fashion,Twitter,Dior,"9,300,465","2,512 0.03%",208101,85,2448 /post,0.03%,2.24%,,
-Fashion,Tik Tok,Dior,"7,644,136","51,194 0.67%",848032,31,27.4K /post,0.36%,11.09%,,
-Travel,Facebook,expedia,"6,672,631","-6,196 -0.09%",0,0,0 /post,0%,0%,0,
-Travel,TikTok,expedia,"1,446,564","34,463 2.44%",99716,12,8310 /post,0.57%,6.89%,,
-Travel,YouTube,Expedia,"1,160,000",0 0%,290,2,145 /post,0.01%,0.03%,,404.83K
-Travel,Instagram,Expedia,"557,327","2,998 0.54%",11125,22,505.7 /post,0.09%,2.00%,"132,121",
-Travel,Twitter,Expedia,"453,501",-267 -0.06%,0,0,0 /post,0%,0%,,
-Fashion,Twitter,Forever 21,"1,809,869","-2,665 -0.15%",172,20,8.6 /post,0%,0.01%,,
-Fashion,Tik Tok,FOREVER 21,"228,142","3,905 1.74%",18220,70,260.3 /post,0.11%,7.99%,,
-Fashion,Youtube,Forever 21,"67,800",0 0%,38,4,9.5 /post,0.01%,0.06%,,1274
-Fashion,Facebook,Forever21,"15,301,234","15,301,234 %",617,20,30.9 /post,0%,0.00%,"3,419",
-Fashion,Instagram,forever21,"14,560,578","-41,112 -0.28%",82151,90,912.8 /post,0.01%,0.56%,"229,596",
-Fashion,Instagram,Gucci,"52,379,676","20,369 0.04%",3428487,45,76.2K /post,0.15%,6.55%,"75,293,444",
-Fashion,Facebook,GUCCI,"20,844,183","9,243 0.04%",223986,57,3930 /post,0%,1%,"1,850,678",
-Fashion,Twitter,gucci,"7,188,362","6,303 0.09%",97114,90,1079 /post,0.02%,1.35%,,
-Fashion,Tik Tok,Gucci,"4,539,106","318,982 7.56%",2365402,23,102.8K /post,2.27%,52.11%,,
-Fashion,Youtube,GUCCI,"1,160,000",0 0%,141977,18,7888 /post,0.68%,12.24%,,13.60M
-Travel,YouTube,Hilton,"950,000","-6,000 -0.63%",7263,43,168.9 /post,0.02%,0.77%,,2.74M
-Travel,Facebook,Hilton,"703,771","2,654 0.38%",1376,7,196.6 /post,0.03%,0.20%,"10,952",
-Travel,TikTok,hilton,"381,854","9,798 2.63%",186409,15,12.4K /post,3.25%,48.82%,,
-Travel,Instagram,Hilton,"230,387","4,810 2.13%",194927,13,15.0K /post,6.51%,84.61%,"330,974",
-Travel,Twitter,Hilton,"26,140",206 0.79%,2260,9,251.1 /post,0.96%,8.65%,,
-Travel,Facebook,Hostelworld,"2,121,688",0 0%,211,5,42.2 /post,0.00%,0.01%,0,
-Travel,Instagram,Hostelworld,"314,469",0 0%,94934,11,8630 /post,2.74%,30.19%,"311,103",
-Travel,TikTok,Hostelworld,"57,124",104 0.18%,9625,8,1203 /post,2.11%,16.85%,,
-Travel,Twitter,Hostelworld,"54,807",0 0%,0,0,0 /post,0%,0%,,
-Travel,YouTube,Hostelworld – Meet The World,"33,300",0 0%,0,0,0 /post,0%,0%,,0
-Tech,Facebook,Instacart,"401,549",290 0.07%,1890,15,126 /post,0.03%,0.47%,"8,135",
-Tech,Instagram,Instacart,"170,831",35 0.02%,2221,20,111.0 /post,0.07%,1.30%,"28,517",
-Tech,Twitter,Instacart,"63,580",0 0%,434,42,10.3 /post,0.02%,0.68%,,
-Tech,YouTube,Instacart,"33,600",0 0%,0,0,0 /post,0%,0%,,0
-Tech,TikTok,Instacart,"26,826",0 0%,135,9,15 /post,0.06%,0.50%,,
-Fashion,Instagram,Levi's,"9,226,461","307,816 3.45%",85658,18,4759 /post,0.05%,0.93%,"500,459",
-Fashion,Youtube,Levi's,"461,000",0 0%,486,7,69.4 /post,0.02%,0.11%,,12.94K
-Fashion,Tik Tok,Levi’s,"1,274,990","2,902 0.23%",212453,17,12.5K /post,0.98%,16.66%,,
-Fashion,Facebook,Levis,"25,462,262","-8,085 -0.03%",240,1,240 /post,0.00%,0.00%,"1,216",
 Tech,Facebook,netflix,"91,374,970","274,545 0.3%",0,0,0 /post,0%,0%,0,
 Tech,TikTok,Netflix,"37,447,117","449,796 1.22%",19125149,227,84.3K /post,0.23%,51.07%,,
 Tech,Instagram,Netflix,"33,095,657",564 0%,19966723,140,142.6K /post,0.43%,60.33%,"51,227,102",
+Tech,Instagram,apple,"32,305,122","154,494 0.48%",1567949,14,112.0K /post,0.35%,4.85%,"7,935,725",
+Tech,LinkedIn,Amazon,"30,432,967",0 0%,46911,14,3351 /post,0.01%,0.15%,,
+Tech,Facebook,Amazon,"30,172,041","-9,350 -0.03%",32172,20,1609 /post,0.01%,0.11%,"194,306",
 Tech,YouTube,Netflix,"27,800,000","100,000 0.36%",1200547,99,12.1K /post,0.04%,4.32%,,51.86M
+Tech,YouTube,Apple,"18,800,000","100,000 0.53%",142304,6,23.7K /post,0.13%,0.76%,,49.79M
+Tech,Facebook,apple,"13,809,876","-4,171 -0.03%",0,0,0 /post,0%,0%,0,
 Tech,LinkedIn,Netflix,"10,214,570","57,025 0.56%",3842,2,1921 /post,0.02%,0.04%,,
-Fashion,Intstagram,Nike,"306,987,612","211,739 0.07%",3583721,12,298.6K /post,0.10%,1.17%,"17,063,948",
-Fashion,Facebook,nike,"37,154,831","19,014 0.05%",0,0,0 /post,0.00%,0.00%,0,
-Fashion,Twitter,Nike,"10,049,679","57,462 0.58%",3683,2,1842 /post,0%,0%,,
-Fashion,Tik Tok,Nike,"5,962,219","95,506 1.63%",536025,14,38.3K /post,0.64%,8.99%,,
-Fashion,Youtube,Nike,"1,840,000",0 0%,0,0,0 /post,0.00%,0.00%,,0
-Travel,Instagram,Palisociety,"52,761",0 0%,4380,18,243.3 /post,0.46%,8.30%,"52,449",
-Travel,TikTok,palisociety,467,0 0%,258,7,36.9 /post,7.89%,55.25%,,
-Travel,Twitter,Palisociety,64,0 0%,0,0,0 /post,0%,,,
-Tech,Twitter,Pathwright,"1,071",0 0%,3,2,1.5 /post,0.14%,0.28%,,
-Tech,Facebook,Pathwright,727,0 0%,0,0,0 /post,0%,0%,0,
-Tech,Instagram,Pathwright,392,0 0%,0,0,0 /post,0%,0%,0,
-Tech,YouTube,Pathwright,93,0 0%,0,0,0 /post,0%,0%,,0
-Fashion,Instagram,Primark,"10,683,840","17,698 0.17%",993003,90,11.0K /post,0.10%,9.29%,"2,645,294",
-Fashion,Facebook,Primark,"6,840,318",0 0%,38082,23,1656 /post,0.02%,0.56%,"93,760",
-Fashion,Tik Tok,Primark,"1,449,132","4,927 0.34%",811024,41,19.8K /post,1.37%,55.97%,,
-Fashion,Twiiter,Primark,"264,970",0 0%,0,0,0 /post,0%,0%,,
-Fashion,Youtube,Primark,"45,300",0 0%,63,9,7 /post,0.02%,0.14%,,3175
+Tech,Twitter,Apple,"9,785,568","20,080 0.21%",0,0,0 /post,0%,0%,,
+Tech,Twitter,Amazon,"6,100,022","51,546 0.85%",5856,23,254.6 /post,0.00%,0.10%,,
+Tech,Instagram,Amazon,"4,701,931","46,846 1.01%",40174,24,1674 /post,0.04%,0.85%,"353,994",
+Tech,TikTok,apple,"3,735,283","441,859 13.42%",815119,1,815.1K /post,21.82%,21.82%,,
 Tech,YouTube,Smartsheet,"42,600",0 0%,51,12,4.3 /post,0.01%,0.12%,,14.49K
 Tech,Facebook,smartsheet,"32,048",0 0%,179,20,8.9 /post,0.03%,0.56%,736,
 Tech,Twitter,Smartsheet,"27,414",0 0%,58,26,2.2 /post,0.01%,0.21%,,
 Tech,TikTok,Smartsheet,"3,710",0 0%,1,1,1 /post,0.03%,0.03%,,
+Tech,Facebook,uber,"21,901,726","-2,197 -0.01%",0,0,0 /post,0%,0%,0,
+Tech,Facebook,airbnb,"16,153,090","21,867 0.14%",0,0,0,0%,0%,0,
+Tech,Instagram,Airbnb,"5,606,769","25,421 0.46%",1402,9,155.8 /post,0.00%,0.03%,"11,691",
+Tech,Instagram,Uber,"1,589,574","6,562 0.41%",31782,22,1445 /post,0.09%,2.00%,"277,088",
+Tech,Twitter,Uber,"1,088,409",943 0.09%,1830,29,63.1 /post,0.01%,0.17%,,
+Tech,TikTok,Uber,"1,034,513","37,957 3.81%",118843,14,8489 /post,0.82%,11.49%,,
+Tech,YouTube,Uber,"886,000","1,000 0.11%",77,14,5.5 /post,0.00%,0.01%,,3.36M
+Tech,Twitter,Airbnb,"879,474",-412 -0.05%,0,0,0 /post,0%,0%,,
+Tech,YouTube,Airbnb,"646,000","3,000 0.47%",29,1,29 /post,0.00%,0.00%,,2846
+Tech,Facebook,asana,"286,529",0 0%,28,1,28 /post,0.01%,0.01%,126,
+Tech,TikTok,airbnb,"272,983","5,445 2.04%",0,0,0 /post,0%,0%,,
+Tech,Twitter,Asana,"128,365",0 0%,12,1,12 /post,0.01%,0.01%,,
+Tech,LinkedIn,Calendly,"93,969",0 0%,776,14,55.4 /post,0.06%,0.83%,,
+Tech,Instagram,Asana,"70,354",369 0.53%,728,9,80.9 /post,0.12%,1.04%,"9,806",
+Tech,YouTube,Asana,"44,000",0 0%,32,2,16 /post,0.04%,0.07%,,3688
+Tech,Twitter,Calendly,"21,434",0 0%,52,11,4.7 /post,0.02%,0.24%,,
+Tech,Instagram,Calendly,"17,739",0 0%,559,9,62.1 /post,0.35%,3.15%,"6,856",
+Tech,Facebook,calendly,"9,678",59 0.61%,0,0,0 /post,0%,0%,0,
+Tech,YouTube,Calendly,"4,210",0 0%,3,1,3 /post,0.07%,0.07%,,238
+Tech,TikTok,Asana,"1,432",0 0%,0,0,0 /post,0%,0%,,
 Tech,Facebook,Spotify,"23,293,459","-20,339 -0.09%",0,0,0 /post,0%,0%,0,
 Tech,Twitter,Spotify,"14,493,665","441,316 3.14%",225326,88,2561 /post,0.02%,1.56%,,
 Tech,Instagram,Spotify,"11,145,398","92,779 0.84%",4988093,82,60.8K /post,0.55%,44.76%,"14,421,790",
 Tech,TikTok,Spotify,"2,647,008","67,529 2.62%",334727,35,9564 /post,0.36%,12.65%,,
 Tech,YouTube,Spotify,"1,670,000",0 0%,37249,30,1242 /post,0.07%,2.23%,,850.86K
+Tech,Facebook,blinkist,"541,669",0 0%,2909,7,415.6 /post,0.08%,0.54%,"26,131",
+Tech,Instagram,Blinkist,"446,200",0 0%,1894,13,145.7 /post,0.03%,0.42%,"18,530",
+Tech,Facebook,Instacart,"401,549",290 0.07%,1890,15,126 /post,0.03%,0.47%,"8,135",
+Tech,Instagram,Instacart,"170,831",35 0.02%,2221,20,111.0 /post,0.07%,1.30%,"28,517",
+Tech,Twitter,Blinkist,"115,773",0 0%,55,9,6.1 /post,0.01%,0.05%,,
+Tech,Twitter,Instacart,"63,580",0 0%,434,42,10.3 /post,0.02%,0.68%,,
+Tech,YouTube,Instacart,"33,600",0 0%,0,0,0 /post,0%,0%,,0
+Tech,TikTok,Instacart,"26,826",0 0%,135,9,15 /post,0.06%,0.50%,,
+Tech,Twitter,Pathwright,"1,071",0 0%,3,2,1.5 /post,0.14%,0.28%,,
+Tech,Facebook,Pathwright,727,0 0%,0,0,0 /post,0%,0%,0,
+Tech,Instagram,Pathwright,392,0 0%,0,0,0 /post,0%,0%,0,
+Tech,YouTube,Pathwright,93,0 0%,0,0,0 /post,0%,0%,,0
+Tech,YouTube,Blinkist,"16,300",0 0%,0,0,0 /post,0%,0%,,
+Fashion,Intstagram,Nike,"306,987,612","211,739 0.07%",3583721,12,298.6K /post,0.10%,1.17%,"17,063,948",
+Fashion,Instagram,Gucci,"52,379,676","20,369 0.04%",3428487,45,76.2K /post,0.15%,6.55%,"75,293,444",
+Fashion,Facebook,adidas,"40,987,373","40,987,373 %",0,0,0 /post,0.00%,0.00%,0,
+Fashion,Facebook,nike,"37,154,831","19,014 0.05%",0,0,0 /post,0.00%,0.00%,0,
+Fashion,Instagram,adidas,"28,844,344","172,653 0.6%",2244917,12,187.1K /post,0.65%,7.78%,"6,940,438",
+Fashion,Facebook,chanel,"23,320,747","6,604 0.03%",79205,25,3168 /post,0.01%,0.34%,"729,450",
+Fashion,Facebook,GUCCI,"20,844,183","9,243 0.04%",223986,57,3930 /post,0%,1%,"1,850,678",
+Fashion,Twitter,CHANEL,"13,304,397","-12,880 -0.1%",0,0,0 /post,0.00%,0.00%,,
+Fashion,Twitter,Nike,"10,049,679","57,462 0.58%",3683,2,1842 /post,0%,0%,,
+Fashion,Twitter,gucci,"7,188,362","6,303 0.09%",97114,90,1079 /post,0.02%,1.35%,,
+Fashion,Tik Tok,adidas,"6,221,437","105,518 1.73%",717207,30,23.9K /post,0.38%,11.53%,,
+Fashion,Tik Tok,Nike,"5,962,219","95,506 1.63%",536025,14,38.3K /post,0.64%,8.99%,,
+Fashion,Tik Tok,Gucci,"4,539,106","318,982 7.56%",2365402,23,102.8K /post,2.27%,52.11%,,
+Fashion,Twitter,adidas,"4,387,870","2,523 0.06%",417,2,208.5 /post,0.01%,0.01%,,
+Fashion,Youtube,CHANEL,"2,510,000",0 0%,12491,18,693.9 /post,0.03%,0.50%,,175.70K
+Fashion,Youtube,Nike,"1,840,000",0 0%,0,0,0 /post,0.00%,0.00%,,0
+Fashion,Youtube,adidas,"1,170,000","40,000 3.54%",8881,26,341.6 /post,0.03%,0.76%,,261.76K
+Fashion,Youtube,GUCCI,"1,160,000",0 0%,141977,18,7888 /post,0.68%,12.24%,,13.60M
+Fashion,Tik Tok,Chanel,2,0 0%,0,0,0 /post,0%,0%,,
+Fashion,Instagram,ZARA,"61,493,040","79,579 0.13%",3247338,32,101.5K /post,0.17%,5.28%,"80,210,500",
+Fashion,Instagram,Dior,"45,854,071","123,238 0.27%",5794932,93,62.3K /post,0.14%,12.64%,"14,092,199",
+Fashion,Facebook,Zara,"30,656,605","-6,917 -0.02%",57026,24,2376 /post,0.01%,0.19%,"382,139",
+Fashion,Facebook,Levis,"25,462,262","-8,085 -0.03%",240,1,240 /post,0.00%,0.00%,"1,216",
+Fashion,Facebook,Dior,"18,981,547","18,981,547 %",198155,32,6192 /post,0.03%,1.04%,"1,696,751",
+Fashion,Facebook,Forever21,"15,301,234","15,301,234 %",617,20,30.9 /post,0%,0.00%,"3,419",
+Fashion,Instagram,forever21,"14,560,578","-41,112 -0.28%",82151,90,912.8 /post,0.01%,0.56%,"229,596",
+Fashion,Tik Tok,ZARA,"10,416,988","253,707 2.5%",699488,12,58.3K /post,0.56%,6.72%,,
+Fashion,Twitter,Dior,"9,300,465","2,512 0.03%",208101,85,2448 /post,0.03%,2.24%,,
+Fashion,Instagram,Levi's,"9,226,461","307,816 3.45%",85658,18,4759 /post,0.05%,0.93%,"500,459",
+Fashion,Tik Tok,Dior,"7,644,136","51,194 0.67%",848032,31,27.4K /post,0.36%,11.09%,,
+Fashion,Youtube,Christian Dior,"3,280,000",0 0%,28919,18,1607 /post,0.05%,0.88%,,8.21M
+Fashion,Twitter,Forever 21,"1,809,869","-2,665 -0.15%",172,20,8.6 /post,0%,0.01%,,
+Fashion,Twitter,ZARA,"1,375,805",-255 -0.02%,3249,20,162.4 /post,0.01%,0.24%,,
+Fashion,Tik Tok,Levi’s,"1,274,990","2,902 0.23%",212453,17,12.5K /post,0.98%,16.66%,,
+Fashion,Youtube,Levi's,"461,000",0 0%,486,7,69.4 /post,0.02%,0.11%,,12.94K
+Fashion,Tik Tok,FOREVER 21,"228,142","3,905 1.74%",18220,70,260.3 /post,0.11%,7.99%,,
+Fashion,Youtube,zara,"118,000","1,000 0.85%",0,0,0 /post,0%,0%,,0
+Fashion,Youtube,Forever 21,"67,800",0 0%,38,4,9.5 /post,0.01%,0.06%,,1274
+Travel,Facebook,expedia,"6,672,631","-6,196 -0.09%",0,0,0 /post,0%,0%,0,
+Travel,Facebook,Carnival,"5,098,377",744 0.01%,31315,16,1957 /post,0.04%,0.61%,"256,667",
+Travel,Facebook,delta,"3,324,382","-1,450 -0.04%",12495,6,2083 /post,0.06%,0.38%,"65,765",
+Travel,Twitter,Delta,"1,656,093",243 0.01%,3041,6,506.8 /post,0.03%,0.18%,,
+Travel,TikTok,expedia,"1,446,564","34,463 2.44%",99716,12,8310 /post,0.57%,6.89%,,
+Travel,Instagram,Delta Air Lines,"1,370,805","8,863 0.65%",71074,13,5467 /post,0.40%,5.19%,"751,780",
+Travel,YouTube,Expedia,"1,160,000",0 0%,290,2,145 /post,0.01%,0.03%,,404.83K
+Travel,Instagram,Carnival Cruise Line,"927,019","5,717 0.62%",73355,13,5643 /post,0.61%,7.91%,"888,130",
+Travel,Instagram,Expedia,"557,327","2,998 0.54%",11125,22,505.7 /post,0.09%,2.00%,"132,121",
+Travel,TikTok,delta,"555,528",0 0%,8166,7,1167 /post,0.21%,1.47%,,
+Travel,Twitter,Expedia,"453,501",-267 -0.06%,0,0,0 /post,0%,0%,,
+Travel,Facebook,Allegiant,"345,299",146 0.04%,13758,14,982.7 /post,0.29%,3.98%,"69,791",
+Travel,TikTok,carnival,"236,683",0 0%,39124,9,4347 /post,1.84%,16.53%,,
+Travel,YouTube,Carnival Cruise Line,"113,000","1,000 0.89%",858,3,286 /post,0.25%,0.76%,,69.95K
+Travel,YouTube,Delta,"110,000",0 0%,120,2,60 /post,0.06%,0.11%,,2000
+Travel,Instagram,Allegiant Air,"86,527","2,735 3.26%",26771,23,1164 /post,1.35%,30.94%,"239,436",
+Travel,Twitter,Allegiant Air,"68,313",0 0%,343,14,24.5 /post,0.04%,0.50%,,
+Travel,LinkedIn,Delta Utility Services,"8,431",0 0%,0,0,0 /post,0%,0%,,
+Travel,YouTube,Allegiant Air,"3,900",0 0%,0,0,0 /post,0%,,,
+Travel,Facebook,Vrbo,"6,112,023","-4,621 -0.08%",192868,16,12.1K /post,0.20%,3.16%,"642,719",
+Travel,Facebook,Hostelworld,"2,121,688",0 0%,211,5,42.2 /post,0.00%,0.01%,0,
+Travel,TikTok,Vrbo,"2,108,964","43,233 2.09%",274818,10,27.5K /post,1.30%,13.03%,,
+Travel,Instagram,Vrbo,"1,287,292","3,492 0.27%",12407,19,653 /post,0.05%,0.96%,"123,030",
+Travel,YouTube,Hilton,"950,000","-6,000 -0.63%",7263,43,168.9 /post,0.02%,0.77%,,2.74M
+Travel,Facebook,Hilton,"703,771","2,654 0.38%",1376,7,196.6 /post,0.03%,0.20%,"10,952",
+Travel,TikTok,hilton,"381,854","9,798 2.63%",186409,15,12.4K /post,3.25%,48.82%,,
+Travel,Instagram,Hostelworld,"314,469",0 0%,94934,11,8630 /post,2.74%,30.19%,"311,103",
+Travel,Instagram,Hilton,"230,387","4,810 2.13%",194927,13,15.0K /post,6.51%,84.61%,"330,974",
+Travel,TikTok,Hostelworld,"57,124",104 0.18%,9625,8,1203 /post,2.11%,16.85%,,
+Travel,Twitter,Hostelworld,"54,807",0 0%,0,0,0 /post,0%,0%,,
+Travel,Instagram,Palisociety,"52,761",0 0%,4380,18,243.3 /post,0.46%,8.30%,"52,449",
+Travel,YouTube,Vrbo,"42,300",100 0.24%,7,1,7 /post,0.02%,0.02%,,688
+Travel,Twitter,Vrbo,"36,526",83 0.23%,16,1,16 /post,0.04%,0.04%,,
+Travel,YouTube,Hostelworld – Meet The World,"33,300",0 0%,0,0,0 /post,0%,0%,,0
+Travel,Twitter,Hilton,"26,140",206 0.79%,2260,9,251.1 /post,0.96%,8.65%,,
+Travel,TikTok,palisociety,467,0 0%,258,7,36.9 /post,7.89%,55.25%,,
+Travel,Twitter,Palisociety,64,0 0%,0,0,0 /post,0%,,,
+Travel,Facebook,trivago,"9,509,568","-3,223 -0.03%",1361,15,90.7 /post,0.00%,0.01%,"5,078",
 Travel,Facebook,Tripadvisor,"7,651,847","1,501 0.02%",17671,106,166.7 /post,0.00%,0.23%,"65,461",
 Travel,Twitter,Tripadvisor,"3,378,505","-2,218 -0.07%",1976,93,21.2 /post,0.00%,0.06%,,
 Travel,Instagram,Tripadvisor,"2,983,963","8,058 0.27%",37700,42,897.6 /post,0.03%,1.26%,"1,808,837",
-Travel,YouTube,Tripadvisor,"24,800",500 2.06%,0,0,0 /post,0%,0%,,0
-Travel,TikTok,Tripadvisor,"7,615",455 6.35%,2113,30,70.4 /post,0.93%,27.75%,,
-Travel,Facebook,trivago,"9,509,568","-3,223 -0.03%",1361,15,90.7 /post,0.00%,0.01%,"5,078",
+Travel,Facebook,VikingCruises,"1,237,995",0 0%,36307,29,1252 /post,0.10%,2.93%,"114,773",
 Travel,Instagram,trivago,"1,183,194","17,314 1.49%",2788,22,126.7 /post,0.01%,0.24%,"32,228",
+Travel,Instagram,Viking,"242,987",0 0%,19609,25,784.4 /post,0.32%,8.07%,"257,852",
 Travel,Twitter,trivago,"137,933",-170 -0.12%,57,13,4.4 /post,0.00%,0.04%,,
 Travel,YouTube,trivago,"73,400",100 0.14%,0,0,0 /post,0%,0%,,0
-Travel,TikTok,trivago,"11,972","1,895 18.81%",2150,38,56.6 /post,0.47%,17.96%,,
-Tech,Facebook,uber,"21,901,726","-2,197 -0.01%",0,0,0 /post,0%,0%,0,
-Tech,Instagram,Uber,"1,589,574","6,562 0.41%",31782,22,1445 /post,0.09%,2.00%,"277,088",
-Tech,Twitter,Uber,"1,088,409",943 0.09%,1830,29,63.1 /post,0.01%,0.17%,,
-Tech,TikTok,Uber,"1,034,513","37,957 3.81%",118843,14,8489 /post,0.82%,11.49%,,
-Tech,YouTube,Uber,"886,000","1,000 0.11%",77,14,5.5 /post,0.00%,0.01%,,3.36M
-Fashion,Facebook,uniqlo,"1,201,255",0 0%,10579,73,144.9 /post,0.01%,0.88%,0,
-Fashion,Youtube,uniqlo,"99,500",0 0%,4836,42,115.1 /post,0.12%,4.86%,,3.59M
-Fashion,Tik Tok,uniqlo,6,0 0%,0,0,0 /post,0%,0%,,
-Fashion,Instagram,UNIQLO Global,"2,494,409",0 0%,68397,30,2280 /post,0.09%,2.74%,0,
-Travel,Instagram,Viking,"242,987",0 0%,19609,25,784.4 /post,0.32%,8.07%,"257,852",
 Travel,Twitter,Viking,"57,223",0 0%,283,7,40.4 /post,0.07%,0.50%,,
 Travel,YouTube,Viking,"37,000",0 0%,240,5,48 /post,0.13%,0.65%,,8518
-Travel,Facebook,VikingCruises,"1,237,995",0 0%,36307,29,1252 /post,0.10%,2.93%,"114,773",
-Travel,Facebook,Vrbo,"6,112,023","-4,621 -0.08%",192868,16,12.1K /post,0.20%,3.16%,"642,719",
-Travel,TikTok,Vrbo,"2,108,964","43,233 2.09%",274818,10,27.5K /post,1.30%,13.03%,,
-Travel,Instagram,Vrbo,"1,287,292","3,492 0.27%",12407,19,653 /post,0.05%,0.96%,"123,030",
-Travel,YouTube,Vrbo,"42,300",100 0.24%,7,1,7 /post,0.02%,0.02%,,688
-Travel,Twitter,Vrbo,"36,526",83 0.23%,16,1,16 /post,0.04%,0.04%,,
-Fashion,Instagram,ZARA,"61,493,040","79,579 0.13%",3247338,32,101.5K /post,0.17%,5.28%,"80,210,500",
-Fashion,Facebook,Zara,"30,656,605","-6,917 -0.02%",57026,24,2376 /post,0.01%,0.19%,"382,139",
-Fashion,Tik Tok,ZARA,"10,416,988","253,707 2.5%",699488,12,58.3K /post,0.56%,6.72%,,
-Fashion,Twitter,ZARA,"1,375,805",-255 -0.02%,3249,20,162.4 /post,0.01%,0.24%,,
-Fashion,Youtube,zara,"118,000","1,000 0.85%",0,0,0 /post,0%,0%,,0
+Travel,YouTube,Tripadvisor,"24,800",500 2.06%,0,0,0 /post,0%,0%,,0
+Travel,TikTok,trivago,"11,972","1,895 18.81%",2150,38,56.6 /post,0.47%,17.96%,,
+Travel,TikTok,Tripadvisor,"7,615",455 6.35%,2113,30,70.4 /post,0.93%,27.75%,,
+Fashion,Instagram,ASOS,"14,811,768","-14,928 -0.1%",189827,54,3515 /post,0.02%,1.28%,"2,958,727",
+Fashion,Instagram,Primark,"10,683,840","17,698 0.17%",993003,90,11.0K /post,0.10%,9.29%,"2,645,294",
+Fashion,Facebook,Primark,"6,840,318",0 0%,38082,23,1656 /post,0.02%,0.56%,"93,760",
+Fashion,Facebook,ASOS,"5,657,666","15,274 0.27%",3390,55,61.6 /post,0.00%,0.06%,"9,712",
+Fashion,Instagram,UNIQLO Global,"2,494,409",0 0%,68397,30,2280 /post,0.09%,2.74%,0,
+Fashion,Tik Tok,asos,"2,080,852","8,456 0.41%",356322,41,8691 /post,0.42%,17.12%,,
+Fashion,Tik Tok,Primark,"1,449,132","4,927 0.34%",811024,41,19.8K /post,1.37%,55.97%,,
+Fashion,Tik Tok,boohoo,"1,385,302",0 0%,87864,33,2663 /post,0.19%,6.34%,,
+Fashion,Facebook,uniqlo,"1,201,255",0 0%,10579,73,144.9 /post,0.01%,0.88%,0,
+Fashion,Twitter,boohoo,"602,699",0 0%,5558,105,52.9 /post,0.01%,0.92%,,
+Fashion,Twiiter,Primark,"264,970",0 0%,0,0,0 /post,0%,0%,,
+Fashion,Youtube,ASOS,"118,000",0 0%,420,39,10.8 /post,0.01%,0.36%,,27.42K
+Fashion,Youtube,uniqlo,"99,500",0 0%,4836,42,115.1 /post,0.12%,4.86%,,3.59M
+Fashion,Youtube,Primark,"45,300",0 0%,63,9,7 /post,0.02%,0.14%,,3175
+Fashion,Youtube,boohoo,"31,300",0 0%,0,0,0 /post,0%,0%,,0
+Fashion,Tik Tok,uniqlo,6,0 0%,0,0,0 /post,0%,0%,,
+Fashion,Instagram,boohoo,"8,277,714",0 0%,42,5,8.4 /post,0%,0.00%,0,
+FMCG,Instagram,Starbucks ,"17,877,104","-32,303 -0.18%",1059536,44,24.1K /post,0%,5.93%,"19,171,836",
+FMCG,Instagram,Coca-Cola,"3,035,732","10,214 0.34%",90757,16,5672 /post,0%,2.99%,"676,734",
+FMCG,Instagram,Nutella,"1,600,165",-559 -0.03%,20373,11,1852 /post,0%,1.27%,"221,628",
+FMCG,Instagram,dove,"915,776","15,283 1.7%",63033,39,1616 /post,0%,6.88%,"3,364,442",
+FMCG,Instagram,Heineken,"789,651",565 0.07%,54026,15,3602 /post,0%,6.84%,"497,420",
+FMCG,Instagram,JustEgg,"223,102",-145 -0.06%,17372,10,1737 /post,1%,7.79%,"157,260",
+FMCG,Instagram,oralb,"198,605",54 0.03%,1260,5,252 /post,0%,0.63%,"16,056",
+FMCG,Instagram,burstoralcare,"121,234",-186 -0.15%,1448,29,49.9 /post,0%,1.19%,"21,210",
+FMCG,Instagram,coppercowcoffee,"94,732",0 0%,3363,21,160.1 /post,0%,3.55%,"34,504",
+FMCG,Instagram,RuleBreakerSnacks,"21,199",0 0%,277,18,15.4 /post,0%,1.31%,"3,406",
+FMCG,Instagram,Cayman Jack,"18,720",0 0%,3010,5,602 /post,3%,16.08%,"16,892",
+FMCG,Instagram,Pretzilla,"13,279",-27 -0.2%,375,11,34.1 /post,0%,2.82%,"5,015",
+FMCG,Instagram,CravnFlavor,780,0 0%,206,14,14.7 /post,2%,26.41%,"2,652",
+FMCG,Facebook,Coca-Cola,"108,409,746","-457,380 -0.42%",0,0,0 /post,0%,0.00%,0,
+FMCG,Facebook,Starbucks,"36,298,129","36,298,129 %",56503,32,1766 /post,0%,0.16%,"319,894",
+FMCG,Facebook,Nutella,"30,482,825","-19,325 -0.06%",20219,12,1685 /post,0%,0.07%,"47,719",
+FMCG,Facebook,dove,"27,019,239","21,681 0.08%",0,0,0 /post,0%,0.00%,0,
+FMCG,Facebook,Heineken,"23,932,425",0 0%,896,5,179.2 /post,0%,0.00%,"2,878",
+FMCG,Facebook,oralb,"7,721,665",0 0%,0,0,0 /post,0%,0.00%,0,
+FMCG,Facebook,JustEgg,"337,005",0 0%,4795,10,479.5 /post,0%,1.42%,"23,857",
+FMCG,Facebook,burstoralcare,"57,901",0 0%,84,13,6.5 /post,0%,0.15%,"1,370",
+FMCG,Facebook,Pretzilla,"32,967",0 0%,1551,11,141 /post,0%,4.71%,"6,399",
+FMCG,Facebook,coppercowcoffee,"13,530",0 0%,109,11,9.9 /post,0%,0.81%,636,
+FMCG,Facebook,CravnFlavor,"10,714",0 0%,173,14,12.4 /post,0%,1.62%,565,
+FMCG,Facebook,RuleBreakerSnacks,"5,421",0 0%,36,19,1.9 /post,0%,0.66%,138,
+FMCG,Facebook,Cayman Jack,"111,566",0 0%,518,4,129.5 /post,0%,0.46%,646,
+FMCG,YouTube,Coca-Cola,"4,290,000","30,000 0.7%",118177,34,3476 /post,0%,2.76%,,89.88M
+FMCG,YouTube,Heineken,"647,000",0 0%,137,2,68.5 /post,0%,0.02%,,8344
+FMCG,YouTube,Starbucks,"406,000","1,000 0.25%",1841,21,87.7 /post,0%,0.45%,,38.15M
+FMCG,YouTube,burstoralcare,"55,800",0 0%,595,29,20.5 /post,0%,1.07%,,25.32K
+FMCG,YouTube,Nutella,"21,600",0 0%,0,0,0 /post,0%,0.00%,,0
+FMCG,YouTube,oralb,"17,600",0 0%,0,0,0 /post,0%,0.00%,,0
+FMCG,YouTube,JustEgg,"10,300",0 0%,276,6,46 /post,0%,2.68%,,5022
+FMCG,YouTube,Cayman Jack,766,0 0%,0,0,0 /post,0%,0.00%,,0
+FMCG,YouTube,coppercowcoffee,113,0 0%,0,0,0 /post,0%,0.00%,,0
+FMCG,YouTube,RuleBreakerSnacks,30,0 0%,0,0,0 /post,0%,0.00%,,0
+FMCG,YouTube,CravnFlavor,21,0 0%,0,0,0 /post,0%,0.00%,,
+FMCG,Twitter,Starbucks,"10,874,881","-6,782 -0.06%",0,0,0 /post,0%,0.00%,,
+FMCG,Twitter,dove,"181,324",144 0.08%,4921,8,615.1 /post,0%,2.71%,,
+FMCG,Twitter,Heineken,"171,320",0 0%,0,0,0 /post,0%,0.00%,,
+FMCG,TikTok,Starbucks,"2,104,339","3,304 0.16%",9293,17,546.6 /post,0%,0.44%,,
+FMCG,TikTok,dove,"179,177","5,238 3.01%",13977,38,367.8 /post,0%,7.80%,,
+FMCG,TikTok,burstoralcare,"12,363",0 0%,544,19,28.6 /post,0%,4.40%,,
